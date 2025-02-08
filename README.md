@@ -2,7 +2,7 @@
 Simple Speed Direct &amp; HUD App
 Webpage with Support Information
 
-☝☝ Tap twice on center of screen to change MPH / KMH / Walk-Run / HUD MPH+ / HUD KHM+ views. If in HUD view, align  '↑ ↑'  arrows pointing toward front of car.  ☝ Tap once on '☾/☀︎'  icon at top of screen to change Dark/Light modes. Use 'Settings' tab to change options. See 'Tap [     ] below for Help Information' on how to use this App.
+☝☝ Tap twice on center of screen to change MPH / KMH / Walk-Run / HUD MPH+ / HUD KHM+ views. If in HUD view, align  '↑ ↑'  arrows pointing toward front of car.  ☝ Tap once on '☾/☀︎'  icon at top of screen to change Dark/Light modes. Use 'Settings' tab to change options.
 
 1.5.0 Safety: Developer Information for the User - This page is for information users can use to ask questions and request support. * Email: most_walker_0a @ icloud.com  
 * ⚠ Use of App means you agree to terms on the App Store Install Page - Use this App at your own risk ⚠
