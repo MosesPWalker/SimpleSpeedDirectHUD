@@ -7,12 +7,17 @@ Webpage with Support Information
 Q&A-1
 What do I do if the screen auto-lock activates when I try to use the app?
 A-1
-While the App has a feature that askes the iPhone to not auto-lock when it is in use, the iPhone may override this setting if the iPhone has been switched to other Apps or the App has been dormat.  If this happens, you can go into the iPhone Settings > Display & Brightness > Auto-lock and change it to "Never" (just remember to change it back when needed and to manually lock the display for safety reasons.)
+While the App has a feature that askes the iPhone to not auto-lock when it is in use, the iPhone may override this setting if the iPhone has been switched to other Apps or the App has been dormant.  If this happens, you can go into the iPhone Settings > Display & Brightness > Auto-lock and change it to "Never" (just remember to change it back when needed and to manually lock the display for safety reasons.)
 
 Q@A-2
 When changing the brightness in the App settings, why does the slider show a different level than what the iPhone is currently set for?
 A-2
 While the App has a feature to set the brightness, the iPhone can be changed to a different level than the last one selected in the App. To re-activate the App brightness level, change the slide slightly back and forth.
+
+Q&A-3
+Why are there three large squares rather than numbers showing on the screen?
+A-3
+If the display is showing three large squares, go to App 'Settings' and use the slider to reduce the size of the App Font.
 
 
 1.5.0 Safety: Developer Information for the User - This page is for information users can use to find answers to questions and request support. 
