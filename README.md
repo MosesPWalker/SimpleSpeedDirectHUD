@@ -21,7 +21,7 @@ If the display is showing three large squares, go to App 'Settings' and use the 
 
 
 1.5.0 Safety: Developer Information for the User - This page is for information users can use to find answers to questions and request support. 
-* Email: most_walker_0a@icloud.com  
+* To ask questions or request support please email: most_walker_0a@icloud.com  
 * ⚠ Use of App means you agree to terms on the App Store Install Page - Use this App at your own risk ⚠
 * ⚠ We strongly recommend securely mounting your device to your vehicle using commercially available products. In an accident, an unsecured device could cause serious injury to you or your passengers. A dash mat or mount may not be sufficient to prevent the device from shifting during a collision. Refrain from using this App if not securely mounted for your specific vehicle.
 * Directional images change color and shadowing based on N/S/E/W orientation and iPhone orientation. Use Apple's Compass App link to color-match heading  @ https://apps.apple.com/us/app/compass/id1067456176  to confirm actual direction.
