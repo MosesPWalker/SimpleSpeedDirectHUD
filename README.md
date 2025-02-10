@@ -2,7 +2,7 @@
 Simple Speed Direct &amp; HUD App
 Webpage with Support Information
 
-☝☝ Tap twice on center of screen to change MPH / KMH / Walk-Run / HUD MPH+ / HUD KHM+ views. If in HUD view, align  '↑ ↑'  arrows pointing toward front of car.  ☝ Tap once on '☾/☀︎'  icon at top of screen to change Dark/Light modes. Use 'Settings' tab to change options.
+☝☝ Tap twice on center of App screen to change MPH / KMH / Walk-Run / HUD MPH+ / HUD KHM+ views. If in App HUD view, align  '↑ ↑'/'↑ ↑ ↑'  arrows pointing toward front of car.  ☝ Tap once on '☾/☀︎'  icon at top of the App screen to change Dark/Light modes. Use App 'Settings' tab to change options.
 
 Q&A-1
 What do I do if the screen auto-lock activates when I try to use the app?
