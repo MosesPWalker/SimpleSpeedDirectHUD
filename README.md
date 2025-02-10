@@ -4,6 +4,17 @@ Webpage with Support Information
 
 ☝☝ Tap twice on center of screen to change MPH / KMH / Walk-Run / HUD MPH+ / HUD KHM+ views. If in HUD view, align  '↑ ↑'  arrows pointing toward front of car.  ☝ Tap once on '☾/☀︎'  icon at top of screen to change Dark/Light modes. Use 'Settings' tab to change options.
 
+Q&A-1
+What do I do if the screen auto-lock activates when I try to use the app?
+A-1
+While the App has a feature that askes the iPhone to not auto-lock when it is in use, the iPhone may override this setting if the iPhone has been switched to other Apps or the App has been dormat.  If this happens, you can go into the iPhone Settings > Display & Brightness > Auto-lock and change it to "Never" (just remember to change it back when needed and to manually lock the display for safety reasons.)
+
+Q@A-2
+When changing the brightness in the App settings, why does the slider show a different level than what the iPhone is currently set for?
+A-2
+While the App has a feature to set the brightness, the iPhone can be changed to a different level than the last one selected in the App. To re-activate the App brightness level, change the slide slightly back and forth.
+
+
 1.5.0 Safety: Developer Information for the User - This page is for information users can use to find answers to questions and request support. 
 * Email: most_walker_0a @ icloud.com  
 * ⚠ Use of App means you agree to terms on the App Store Install Page - Use this App at your own risk ⚠
@@ -24,4 +35,34 @@ Using internal iPhone sensors:
 The app is specifically utilizing the iPhone's built-in GPS and motion sensors, which are considered a more privacy-focused approach as they do not rely on external location data collection. 
 
 No data sharing:
-The app does not share any of the collected data with third-parties for advertising or other purposes. Note: How to check app privacy on your iPhone: Go to Settings > Privacy & Security (This is where you can manage which apps have access to your location, contacts, photos, and other data > App Privacy Report: You can also access a detailed report showing how apps are using your data by going to Settings > Privacy & Security > App Privacy Report. 
+The app does not share any of the collected data with third-parties for advertising or other purposes. Note: How to check app privacy on your iPhone: Go to Settings > Privacy & Security (This is where you can manage which apps have access to your location, contacts, photos, and other data > App Privacy Report: You can also access a detailed report showing how apps are using your data by going to Settings > Privacy & Security > App Privacy Report).
+
+You are solely responsible for your driving safety. Use Simple Speed Direct & HUD at your own risk and always obey traffic laws. Road signs and traffic laws always take precedence. Simple Speed Direct & HUD ("App") is a tool, not a replacement for real-world road information. The information displayed by Simple Speed Direct & HUD should not be considered a substitute for the actual road conditions, including signs, signals, and instructions from authorities.
+
+Prioritize safe driving. Always be alert and follow traffic laws. Avoid any distractions, including using Simple Speed Direct & HUD for non-navigation purposes.
+
+Simple Speed Direct & HUD provides non-real-time data, which may not always be accurate or up-to-date. the App Developer ("AD") disclaims any warranty regarding the reliability of this information.
+
+To provide location-based features, Simple Speed Direct & HUD uses GPS and other device data. None of this data is intended for use beyond the app and is not shared.  
+
+We do not guarantee that Simple Speed Direct & HUD will meet your specific needs or be free of defects.
+
+We do not guarantee that Simple Speed Direct & HUD will meet your specific needs or be error-free. You assume all risks associated with using the app.
+
+You are solely responsible for using Simple Speed Direct & HUD and complying with all applicable laws while using the app. We are not liable for any issues or damages arising from your use of the app.
+
+We are not liable for any damages, losses, or costs arising from your use of Simple Speed Direct & HUD, including but not limited to:
+Loss of data or profits
+Device damage or malfunction
+Errors or inaccuracies in the app
+Any actions or omissions by our staff
+Your reliance on the app's content
+Your sole remedy is limited to disuse of the app and/or correcting any errors or malfunctions in the app.
+
+Notice: By using Simple Speed Direct & HUD, you assume all risk of personal injury or other damage that may occur during or as a result of using the app.
+
+We strongly recommend securely mounting your device to your vehicle using commercially available products. In an accident, an unsecured device could cause serious injury to you or your passengers. A dash mat or mount may not sufficient to prevent the device from shifting during a collision. Refrain from using Simple Speed Direct & HUD if not securely mounted or inappropriate  for you specific vehicle.
+
+App Developer (AD) may, at its sole discretion, modify, adapt, or change Simple Speed Direct & HUD, including its features, functionality, user interface, design, content, and availability. You waive any claims related to such changes or their potential consequences.
+
+AD may change these Terms at any time. We'll post a notice on the App Store of version updates if we make significant changes. By continuing to use Simple Speed Direct & HUD, you agree to the updated Terms.
