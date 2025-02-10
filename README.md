@@ -68,6 +68,6 @@ Notice: By using Simple Speed Direct & HUD, you assume all risk of personal inju
 
 We strongly recommend securely mounting your device to your vehicle using commercially available products. In an accident, an unsecured device could cause serious injury to you or your passengers. A dash mat or mount may not sufficient to prevent the device from shifting during a collision. Refrain from using Simple Speed Direct & HUD if not securely mounted or inappropriate  for you specific vehicle.
 
-App Developer (AD) may, at its sole discretion, modify, adapt, or change Simple Speed Direct & HUD, including its features, functionality, user interface, design, content, and availability. You waive any claims related to such changes or their potential consequences.
+AD may, at its sole discretion, modify, adapt, or change Simple Speed Direct & HUD, including its features, functionality, user interface, design, content, and availability. You waive any claims related to such changes or their potential consequences.
 
 AD may change these Terms at any time. We'll post a notice on the App Store of version updates if we make significant changes. By continuing to use Simple Speed Direct & HUD, you agree to the updated Terms.
