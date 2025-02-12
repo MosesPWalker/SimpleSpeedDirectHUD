@@ -21,7 +21,7 @@ What do I do if the screen auto-lock activates when I try to use the app?
 A-1
 While the App has a feature that askes the iPhone to not auto-lock when it is in use, the iPhone may override this setting if the iPhone has been switched to other Apps or the App has been dormant.  If this happens, you can go into the iPhone Settings > Display & Brightness > Auto-lock and change it to "Never" (just remember to change it back when needed and to manually lock the display for safety reasons.)
 
-Q@A-2
+Q&A-2
 When changing the brightness in the App settings, why does the slider show a different level than what the iPhone is currently set for?
 A-2
 While the App has a feature to set the brightness, the iPhone can be changed to a different level than the last one selected in the App. To re-activate the App brightness level, change the slide slightly back and forth.
@@ -48,7 +48,7 @@ Prioritize safe driving. Always be alert and follow traffic laws. Avoid any dist
 
 Simple Speed Direct & HUD provides non-real-time data, which may not always be accurate or up-to-date. the App Developer ("AD") disclaims any warranty regarding the reliability of this information.
 
-To provide location-based features, Simple Speed Direct & HUD uses GPS and other device data. None of this data is intended for use beyond the app and is not shared.  
+To provide location-based features, Simple Speed Direct & HUD uses iPhone GPS functionality and data. None of this data is intended for use beyond the app and is not shared.  
 
 We do not guarantee that Simple Speed Direct & HUD will meet your specific needs or be free of defects.
 
