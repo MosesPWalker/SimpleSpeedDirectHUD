@@ -4,6 +4,19 @@ Webpage with Support Information
 
 1.5.0 Safety: Developer Information for the User - This page is for information users can use to find answers to questions and request support. 
 * To ask questions or request support please email: most_walker_0a@icloud.com (see Q&A below).  
+
+Location Data: SimpleSpeedDirectHUD ("Speedometer") App requests access to your location only when you are actively using the app. This means we will only access your location data when the app is open and running in the foreground.  We do not access your location when the app is in the background or closed.
+
+Purpose of Location Data: We use your location data solely for the purpose of GPS speed and North/South/East/West (N/S/E/W) directional movement of your iPhone to: helping you know your speed and confirm your direction toward your destination by providing you with real-time GPS speed.  Directional images change color and shadowing based on N/S/E/W orientation and iPhone orientation. Use Apple's Compass App link to color-match your heading to confirm actual direction name matching the colored images.
+
+Data Sharing: We do not share your location data with any third-party companies, advertisers, or other organizations.  Your location information is only used within the app for the purposes described above.
+
+Data Storage: Your location data is not stored by us. It is only used in real-time to provide the requested service and is discarded immediately after use.
+
+User Control: You have complete control over whether or not the App can access your location.  You can grant or deny location permissions when prompted by the app. You can also change these permissions at any time in your device's Settings app under Privacy & Security > Location Services > SimpleSpeedDirectHUD ("Speedometer").  Disabling location services may limit or disable certain features of the app.
+
+Changes to this Privacy Statement: We may update this privacy statement from time to time.  Any changes will be posted within the app or on our website.  Your continued use of the app after such changes constitutes your acceptance of the revised privacy statement.   
+
 * ⚠ Use of App means you agree to terms on the App Store Install Page - Use this App at your own risk ⚠
 * ⚠ We strongly recommend securely mounting your device to your vehicle using commercially available products. In an accident, an unsecured device could cause serious injury to you or your passengers. A dash mat or mount may not be sufficient to prevent the device from shifting during a collision. Refrain from using this App if not securely mounted for your specific vehicle.
 * Directional images change color and shadowing based on N/S/E/W orientation and iPhone orientation. Use Apple's Compass App link to color-match heading  @ https://apps.apple.com/us/app/compass/id1067456176  to confirm actual direction.
