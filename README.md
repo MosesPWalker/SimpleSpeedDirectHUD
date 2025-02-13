@@ -7,7 +7,7 @@ Webpage with Support Information
 
 Location Data: SimpleSpeedDirectHUD ("Speedometer") App requests access to your location only when you are actively using the app. This means we will only access your location data when the app is open and running in the foreground.  We do not access your location when the app is in the background or closed.
 
-Purpose of Location Data: We use your location data solely for the purpose of GPS speed and North/South/East/West (N/S/E/W) directional movement of your iPhone to: helping you know your speed and confirm your direction toward your destination by providing you with real-time GPS speed.  Directional images change color and shadowing based on N/S/E/W orientation and iPhone orientation. Use Apple's Compass App link to color-match your heading to confirm actual direction name matching the colored images.
+Purpose of Location Data: We use your location data solely for the purpose of GPS speed and North/South/East/West (N/S/E/W) directional movement of your iPhone to: helping you know your speed and confirm your direction toward your destination by providing you with real-time GPS speed.  Directional images change color and shadowing based on N/S/E/W orientation and iPhone orientation.
 
 Data Sharing: We do not share your location data with any third-party companies, advertisers, or other organizations.  Your location information is only used within the app for the purposes described above.
 
