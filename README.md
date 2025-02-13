@@ -59,9 +59,9 @@ You are solely responsible for your driving safety. Use Simple Speed Direct & HU
 
 Prioritize safe driving. Always be alert and follow traffic laws. Avoid any distractions, including using Simple Speed Direct & HUD for non-navigation purposes.
 
-Simple Speed Direct & HUD provides non-real-time data, which may not always be accurate or up-to-date. the App Developer ("AD") disclaims any warranty regarding the reliability of this information.
+Simple Speed Direct & HUD provides non-real-time speed indication, which may not always be accurate or up-to-date. the App Developer ("AD") disclaims any warranty regarding the reliability of this information.
 
-To provide location-based features, Simple Speed Direct & HUD uses iPhone GPS functionality and data. None of this data is intended for use beyond the app and is not shared.  
+To provide location-based features, Simple Speed Direct & HUD uses iPhone GPS functionality. None of this data is intended for use beyond the app and is not shared.  
 
 We do not guarantee that Simple Speed Direct & HUD will meet your specific needs or be free of defects.
 
