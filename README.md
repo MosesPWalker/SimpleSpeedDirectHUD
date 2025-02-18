@@ -2,29 +2,62 @@
 Simple Speed Direct &amp; HUD App
 Webpage with Support Information
 
-1.5.0 Safety: Developer Information for the User - This page is for information users can use to find answers to questions and request support. 
-* To ask questions or request support please email: most_walker_0a@icloud.com (see Q&A below).  
+PRIVACY POLICY - Simple Speed Direct & HUD App
+ *Simple Speed Direct & HUD App Developer (hereinafter referred to as “the App Developer") does its best to be transparent about how users’ personal data (hereinafter referred to as "personal information" or "data") is protected and processed in order to ensure the safe use of its services.
 
-Location Data: SimpleSpeedDirectHUD ("Speedometer") App requests access to your location only when you are actively using the app. This means we will only access your location data when the app is open and running in the foreground.  We do not access your location when the app is in the background or closed.
+This privacy policy applies to the App Developer's Simple Speed Direct & HUD App, which will be referred collectively as "services" in this document.
 
-Purpose of Location Data: We use your location data solely for the purpose of GPS speed and North/South/East/West (N/S/E/W) directional movement of your iPhone to: helping you know your speed and confirm your direction toward your destination by providing you with real-time GPS speed.  Directional images change color and shadowing based on N/S/E/W orientation and iPhone orientation.
+The App Developer's policy will be updated to reflect any new regulatory or legal changes. If the policy is significantly altered, the App Developer will do its best to notify users via pop-up screens or announcements.
+ 
+A. Inquiries related to the privacy policy
+ 
+If you have any inquiries or requests about the privacy policy, you can email to get an answer as soon as possible.
+ 
+- Name of the App Developer: C ONeill
+- Email: most_walker_0a@icloud.com
+ 
+B. The App Developer collects personal information legally.
+  
+<Collected directly from the user>
+- Customer support records (emails)
+- Other information that the user has agreed to can be used for only those purposes
+ 
+<Data collected automatically>
+- The App Developer does not collect information about the devices that users use to access the service.
+- The App Developer does not collect information through cookies and similar technologies.
+ 
+C. Personal information is collected and used only for specific and lawful purposes.
+- The App Developer treat all information related to the user’s account as personal information. Also, the data is stored for a minimum period necessary to provide the best service to the user.
+ 
+<Service Operations>
+- Verification and confirmation of payment
+- Sending service-related notices
+- Replying to inquiries
+- Sending relevant information such as updates, security warnings, and support messages
+- Other information that the user has agreed to can be used for only these additional purposes
+ 
+D. No personal information is shared or sold to third parties outside of these purposes.
 
-Data Sharing: We do not share your location data with any third-party companies, advertisers, or other organizations.  Your location information is only used within the app for the purposes described above.
+The App Developer will not share of sell user information to a third party without the user’s consent. However, the App Developer can share information that cannot be used to identify individuals, such as statistics and public information. The App Developer may share personal information in order to comply with legal procedures such as rights protection, court orders, or to comply with requests from government agencies or other related agencies, or if there are justifiable reasons.
+ 
+<With your consent>
+We may disclose your personal information for any other purpose with your consent.
+ 
+<Other companies and public institutions>
+The App Developer can provide information to public authorities upon request in order to verify payments (in collaboration with payment service providers) and to prevent fraud and illegal activities.
+ 
+<User rights for international transmission>
+In the event of a reason for transmission, user data may be transmitted to a computer system located between the user's countries for use, processing, or storage, and may only be used for the purposes specified in this policy. Furthermore, users have the ability to modify, delete, and restrict data sent overseas.
+ 
+E. Comments and inquiries
+If you have any questions or comments about the App Developer's data protection,
+please contact us via email: 
+most_walker_0a@icloud.com
 
-Data Storage: Your location data is not stored by us. It is only used in real-time to provide the requested service and is discarded immediately after use.
-
-User Control: You have complete control over whether or not the App can access your location.  You can grant or deny location permissions when prompted by the app. You can also change these permissions at any time in your device's Settings app under Privacy & Security > Location Services > SimpleSpeedDirectHUD ("Speedometer").  Disabling location services may limit or disable certain features of the app.
-
-Changes to this Privacy Statement: We may update this privacy statement from time to time.  Any changes will be posted within the app or on our website.  Your continued use of the app after such changes constitutes your acceptance of the revised privacy statement.   
+-------------
 
 * ⚠ Use of App means you agree to terms on the App Store Install Page - Use this App at your own risk ⚠
 * ⚠ We strongly recommend securely mounting your device to your vehicle using commercially available products. In an accident, an unsecured device could cause serious injury to you or your passengers. A dash mat or mount may not be sufficient to prevent the device from shifting during a collision. Refrain from using this App if not securely mounted for your specific vehicle.
-
-5.1.1 Legal: Privacy - App Data Collection and Storage Statement - Here is an explaination of the the use of protected resources (i.e. purpose/description of the app's use of data including example of how the data is used):
-* This app utilizes directional data generated by your iPhone exclusively while you are actively moving.
-* No data is collected or stored for any purpose other than the app's core functionality.
-* This app is completely free of advertisements.
-* See more information below.
 
 ☝☝ Tap twice on center of App screen to change MPH / KMH / Walk-Run / HUD MPH+ / HUD KHM+ views. If in App HUD view, align  '↑ ↑'/'↑ ↑ ↑'  arrows pointing toward front of car.  ☝ Tap once on '☾/☀︎'  icon at top of the App screen to change Dark/Light modes. Use App 'Settings' tab to change options.
 
