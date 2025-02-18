@@ -29,6 +29,7 @@ B. The App Developer collects personal information legally.  
 - The App Developer does not collect information through cookies and similar technologies.
 
 
+
 C. Personal information is collected and used only for specific and lawful purposes.
 - The App Developer treats all information related to the user’s account as personal information. Also, the data is stored for a minimum period necessary to provide the best service to the user.
 
@@ -37,7 +38,8 @@ C. Personal information is collected and used only for specific and lawful purpo
 - Service-related email notices such as updates, security warnings, and support messages
 - Replying to email inquiries
 - Other information that the user has agreed to can be used for only these additional purposes
- 
+
+ 
 D. No personal information is shared or sold to third parties outside of these purposes.
 
 The App Developer will not share of sell user information to a third party without the user’s consent. However, the App Developer can share information that cannot be used to identify individuals, such as statistics and public information. The App Developer may share personal information in order to comply with legal procedures such as rights protection, court orders, or to comply with requests from government agencies or other related agencies, or if there are justifiable reasons.
@@ -50,7 +52,8 @@ The App Developer can provide information to public authorities upon request in 
  
 <User rights for international transmission>
 In the event of a reason for transmission, user data may be transmitted to a computer system located between the user's countries for use, processing, or storage, and may only be used for the purposes specified in this policy. Furthermore, users have the ability to modify, delete, and restrict data sent overseas.
- 
+
+ 
 E. Comments and inquiries
 If you have any questions or comments about the App Developer's data protection,
 please contact us via email: 
