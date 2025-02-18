@@ -16,24 +16,24 @@ If you have any inquiries or requests about the privacy policy, you can email to
 - Name of the App Developer: C ONeill
 - Email: most_walker_0a@icloud.com
  
-B. The App Developer collects personal information legally.
-  
+
+B. The App Developer collects personal information legally.  
 <Collected directly from the user>
 - Customer support records (emails)
 - Other information that the user has agreed to can be used for only those purposes
- 
+
+ 
 <Data collected automatically>
 - The App Developer does not collect information about the devices that users use to access the service.
 - The App Developer does not collect information through cookies and similar technologies.
  
 C. Personal information is collected and used only for specific and lawful purposes.
-- The App Developer treat all information related to the user’s account as personal information. Also, the data is stored for a minimum period necessary to provide the best service to the user.
+- The App Developer treats all information related to the user’s account as personal information. Also, the data is stored for a minimum period necessary to provide the best service to the user.
  
 <Service Operations>
 - Verification and confirmation of payment
-- Sending service-related notices
-- Replying to inquiries
-- Sending relevant information such as updates, security warnings, and support messages
+- Service-related email notices such as updates, security warnings, and support messages
+- Replying to email inquiries
 - Other information that the user has agreed to can be used for only these additional purposes
  
 D. No personal information is shared or sold to third parties outside of these purposes.
