@@ -7,30 +7,29 @@ PRIVACY POLICY - Simple Speed Direct & HUD App
 
 This privacy policy applies to the App Developer's Simple Speed Direct & HUD App, which will be referred collectively as "services" in this document.
 
-The App Developer's policy will be updated to reflect any new regulatory or legal changes. If the policy is significantly altered, the App Developer will do its best to notify users via pop-up screens or announcements.
+The App Developer's policy will be updated to reflect any new regulatory or legal changes. If the policy is significantly altered, the App Developer will do its best to notify users via the Simple Speed Direct & HUD App.
  
 
-A. Inquiries related to the privacy policy
+A. Privacy policy Inquiries
  
-If you have any inquiries or requests about the privacy policy, you can email to get an answer as soon as possible.
- 
+You can email to get an answer and the developer will reply as soon as they are able.
 - Name of the App Developer: C ONeill
 - Email: most_walker_0a@icloud.com
  
 
 B. The App Developer collects personal information legally.  
-<Collected directly from the user>
+<Directly collected from the user>
 - Customer support records (emails)
 - Other information that the user has agreed to can be used for only those purposes
 
  
-<Data collected automatically>
+<Automatically collected data>
 - The App Developer does not collect information about the devices that users use to access the service.
 - The App Developer does not collect information through cookies and similar technologies.
 
 
 
-C. Personal information is collected and used only for specific and lawful purposes.
+C. Any personal information is collected and used only for specific and lawful purposes.
 - The App Developer treats all information related to the user’s account as personal information. Also, the data is stored for a minimum period necessary to provide the best service to the user.
 
 <Service Operations>
@@ -51,7 +50,7 @@ We may disclose your personal information for any other purpose with your consen
 The App Developer can provide information to public authorities upon request in order to verify payments (in collaboration with payment service providers) and to prevent fraud and illegal activities.
  
 <User rights for international transmission>
-In the event of a reason for transmission, user data may be transmitted to a computer system located between the user's countries for use, processing, or storage, and may only be used for the purposes specified in this policy. Furthermore, users have the ability to modify, delete, and restrict data sent overseas.
+In the event of a reason for transmission, user data may be transmitted to a computer system located between the user's countries for use, processing, or storage, and may only be used for the purposes specified in this policy. Furthermore, users have the ability to modify, delete, and restrict data sent overseas if neccessary.
 
  
 E. Comments and inquiries
