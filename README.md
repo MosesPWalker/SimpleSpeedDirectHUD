@@ -27,7 +27,8 @@ B. The App Developer collects personal information legally.  
 <Data collected automatically>
 - The App Developer does not collect information about the devices that users use to access the service.
 - The App Developer does not collect information through cookies and similar technologies.
- 
+
+
 C. Personal information is collected and used only for specific and lawful purposes.
 - The App Developer treats all information related to the user’s account as personal information. Also, the data is stored for a minimum period necessary to provide the best service to the user.
 
