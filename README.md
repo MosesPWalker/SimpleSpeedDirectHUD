@@ -9,6 +9,7 @@ This privacy policy applies to the App Developer's Simple Speed Direct & HUD App
 
 The App Developer's policy will be updated to reflect any new regulatory or legal changes. If the policy is significantly altered, the App Developer will do its best to notify users via pop-up screens or announcements.
  
+
 A. Inquiries related to the privacy policy
  
 If you have any inquiries or requests about the privacy policy, you can email to get an answer as soon as possible.
