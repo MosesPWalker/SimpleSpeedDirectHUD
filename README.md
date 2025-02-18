@@ -30,7 +30,7 @@ B. The App Developer collects personal information legally.  
  
 C. Personal information is collected and used only for specific and lawful purposes.
 - The App Developer treats all information related to the user’s account as personal information. Also, the data is stored for a minimum period necessary to provide the best service to the user.
- 
+
 <Service Operations>
 - Verification and confirmation of payment
 - Service-related email notices such as updates, security warnings, and support messages
