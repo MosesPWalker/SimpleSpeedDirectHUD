@@ -3,7 +3,10 @@ Simple Speed Direct &amp; HUD App
 Webpage with Support Information
 
 PRIVACY POLICY - Simple Speed Direct & HUD App
- *Simple Speed Direct & HUD App Developer (hereinafter referred to as “the App Developer") does its best to be transparent about how users’ personal data (hereinafter referred to as "personal information" or "data") is protected and processed in order to ensure the safe use of its services.
+
+ ⚠ Speedometer uses your location to calculate and display your current speed and direction, if you choose to enable it.  ⚠ This app DOES NOT use your GPS to track and display your route on a map. For example, the app uses your location to show your real-time speed as you drive and direction; it DOES NOT record your route for later review. ⚠
+ 
+Simple Speed Direct & HUD App Developer (hereinafter referred to as “the App Developer") does its best to be transparent about how users’ personal data (hereinafter referred to as "personal information" or "data") is protected and processed in order to ensure the safe use of its services.
 
 This privacy policy applies to the App Developer's Simple Speed Direct & HUD App, which will be referred collectively as "services" in this document.
 
